@@ -1,0 +1,1 @@
+# typescript-mongooose-server-boilerplate
